@@ -1,5 +1,6 @@
 # 💫 About Me:
 ## Welcome, I am Akpan Daniel.<br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=danutibe07&label=Profile%20views&color=4E2A84&style=flat-cube" alt="danutibe07" /></p>
 <!-- ![coding](https://user-images.githubusercontent.com/30289772/208741012-2b7d9c93-0a2d-4e3d-af2d-e10bf319bbfd.gif)<br> -->
 🌱 I’m currently learning full stack development<br>
 👯 I’m looking to collaborate on UI/UX design and full stack development<br>
